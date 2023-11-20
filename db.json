@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "GOT",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3JnEmf9uKgh5Eh045lYW0XMhoxz-mi2vuQ&usqp=CAU",
+      "id": 2
+    },
+    {
+      "title": "fast five",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ36CG5dK56BS8mxEGfpm8cB6nljPuhtU0uA&usqp=CAU",
+      "completed": false,
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
